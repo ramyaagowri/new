@@ -7,6 +7,7 @@ function App() {
       {console.log(
         "Im making changes to the version 1 branch and commiting it again"
       )}
+      <div>Heyyyy</div>
       <span>Hiiii</span>
     </div>
   );
